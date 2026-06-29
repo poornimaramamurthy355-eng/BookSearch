@@ -1,4 +1,4 @@
 def search_book(title):
-    return f"Searching for {title}"
+    return f"Book '{title}' found in Library A"
 
-print(search_book("Python Basics"))
+print(search_book("Python Basics")
